@@ -1,6 +1,6 @@
 # Cloud-Computing
 
-** Description: **
+**Description:**
 
 - The core functions of our web application is to obtain text content inside the 
 most common media files, images and audios, and translate it to other languages.
@@ -15,5 +15,5 @@ multiple times without uploading the audio files again.
 download link will be sent to user's mailbox. (Note: the user has to comfirm 
 subscription first.)
 
-** Public link: **
+**Public link:**
 http://project-env.eba-zysihajv.us-east-1.elasticbeanstalk.com/
