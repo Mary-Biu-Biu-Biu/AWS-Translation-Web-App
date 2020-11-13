@@ -123,7 +123,7 @@ subscription first.)
 
 #### job list
 
-> ![empty list](documentations/empty list.png)
+> ![empty list](documentations/empty-list.png)
 
 #### job detail
 
