@@ -1,8 +1,26 @@
 # Cloud Computing Project
 
-[TOC]
+## Table of Contents
 
-## **Description:**
+- [Description](#Description)
+- [Software Architecture](#Software Architecture)
+- [Use Case Examples](#Use Case Examples)
+  - [1. Handwriting recognition + translation](#1. Handwriting recognition + translation)
+  - [2. Irregular printing (cosmetics/logos)](2. Irregular printing (cosmetics/logos))
+  - [3. Video transcription](3. Video transcription)
+  - [4. Transcription job tracking](4. Transcription job tracking)
+  - [5. Notification received in mailbox](5. Notification received in mailbox)
+  - [6. Download translated file](6. Download translated file)
+- [Screenshots](#Screenshots)
+  - [main page](main page)
+  - [login/signup (to use transcription feature)](login/signup (to use transcription feature))
+    - [validation](#validation)
+  - [image page](image page)
+  - [video page (create job)](video page (create job))
+  - [job list](job list)
+  - [job detail](job detail)
+
+## Description
 
 - The core functions of the web application is to obtain text content inside the 
 most common media files(images and audios) and translate it to other languages.
@@ -33,7 +51,7 @@ subscription first.)
 
 ---
 
-## Use Case Examples: 
+## Use Case Examples
 
 #### 1. Handwriting recognition + translation
 
@@ -81,7 +99,7 @@ subscription first.)
 
 #### main page
 
-> ![main](E:\Programming\webapp\Cloud-Computing\documentations\main.png)
+> ![main](documentations/main.png)
 
 #### login/signup (to use transcription feature)
 
