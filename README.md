@@ -27,7 +27,7 @@ subscription first.)
 
 ## Software Architecture
 
-![architecture](\documentations\architecture.png)
+![architecture](documentations/architecture.png)
 
 ---
 
@@ -37,7 +37,7 @@ subscription first.)
 
 ​	choose "image" -> choose language -> upload image -> **get result !** 
 
-![handwriting](documentations\handwriting.png)
+![handwriting](documentations/handwriting.png)
 
 #### 2. Irregular printing (cosmetics/logos)
 
@@ -45,30 +45,30 @@ subscription first.)
 
 
 
-![irregular](documentations\irregular.png)
+![irregular](documentations/irregular.png)
 
 #### 3. Video transcription
 
 ​	choose "video" -> login/sign up ( -> if sign up, then could confirm subscription) -> upload video -> wait until job completed -> if completed, then click to see transcription 
 
-#### ![video](documentations\video.png)
+#### ![video](documentations/video.png)
 
 #### 4. Transcription job tracking
 
  click "login" -> click "lists" -> choose completed job to see transcription
 
-![track](documentations\track.png)
+![track](documentations/track.png)
 
 #### 5. Notification received in mailbox
 
 ​	in completed transcription page -> choose language -> click "confirm" -> receive email in mailbox
 
-![notification](\documentations\notification.png)
+![notification](documentations/notification.png)
 
-![email](documentations\email.png)
+![email](documentations/email.png)
 
 #### 6. Download translated file
 
 ​	in email with download link -> click on download link -> choose a position to save locally -> open txt file with any editor
 
-![file](documentations\file.png)
+![file](documentations/file.png)
