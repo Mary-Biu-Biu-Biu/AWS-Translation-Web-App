@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Description](#Description)
-- [Software Architecture](#Software Architecture)
+- [Software Architecture](#Software-Architecture)
 - [Use Case Examples](#Use-Case-Examples)
   - [1. Handwriting recognition + translation](#1-handwriting-recognition--translation)
   - [2. Irregular printing (cosmetics/logos)](#2-irregular-printing-cosmeticslogos)
