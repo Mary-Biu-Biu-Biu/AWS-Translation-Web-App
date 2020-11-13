@@ -1,5 +1,7 @@
 # Cloud Computing Project
 
+[TOC]
+
 ## **Description:**
 
 - The core functions of the web application is to obtain text content inside the 
@@ -18,7 +20,7 @@ subscription first.)
 ---
 
 > **Public link:**
-> http://project-env.eba-zysihajv.us-east-1.elasticbeanstalk.com/
+> ~~http://project-env.eba-zysihajv.us-east-1.elasticbeanstalk.com/~~
 >
 > > (URL is expired because the credits of my education account has been used up)
 > > (will upload a video online for the website and give an URL)
@@ -72,3 +74,39 @@ subscription first.)
 ​	in email with download link -> click on download link -> choose a position to save locally -> open txt file with any editor
 
 ![file](documentations/file.png)
+
+---
+
+## Screenshots
+
+#### main page
+
+> ![main](E:\Programming\webapp\Cloud-Computing\documentations\main.png)
+
+#### login/signup (to use transcription feature)
+
+> ![login](documentations/login.png)
+
+> ![sign-up](documentations/sign-up.png)
+
+> ##### 	validation
+>
+> > ![validation](documentations/validation.png)
+
+#### image page
+
+> ![image-page](documentations/image-page.png)
+
+> ![sample results](documentations/sample results.png)
+
+#### video page (create job)
+
+> ![create job](documentations/create job.png)
+
+#### job list
+
+> ![empty list](documentations/empty list.png)
+
+#### job detail
+
+> ![job details](documentations/job details.png)
