@@ -115,11 +115,11 @@ subscription first.)
 
 > ![image-page](documentations/image-page.png)
 
-> ![sample results](documentations/sample results.png)
+> ![sample results](documentations/sample-results.png)
 
 #### video page (create job)
 
-> ![create job](documentations/create job.png)
+> ![create job](documentations/create-job.png)
 
 #### job list
 
@@ -127,4 +127,4 @@ subscription first.)
 
 #### job detail
 
-> ![job details](documentations/job details.png)
+> ![job details](documentations/job-details.png)
